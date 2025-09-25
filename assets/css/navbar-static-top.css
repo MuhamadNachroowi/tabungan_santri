@@ -1,0 +1,47 @@
+body {
+  min-height: 500px;
+  height: auto;
+ 
+}
+.well{
+  background-color: #62bb47 !important;
+}
+
+.navbar-static-top {
+  margin-bottom: 19px;
+}
+
+.navbar-inverse {
+   background-color: #20a888;
+
+border-color: #56688d;
+	color: #fff;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: #fff;
+}
+.navbar-inverse .navbar-brand {
+    color: #fff;
+}
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
+    color: #fff;
+    background-color: #555;
+}
+.logo{
+	padding: 10px 0px 10px 0px; 
+}
+.logo img{
+	width: 60px;
+	margin-left: 30px;
+}
+.identi{
+	float: left;
+position: absolute;
+margin-left: 100px;
+margin-top: -77px;
+}
+.space-footer{
+  margin: 30px;
+  height: 30px;
+}
+

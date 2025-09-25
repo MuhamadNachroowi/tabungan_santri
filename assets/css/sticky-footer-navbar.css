@@ -1,0 +1,119 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  /*height: 60px;*/
+  padding: 10px; 0;
+  background-color: #20a888;
+  color: #fff;
+}
+.btn-primary {
+    color: 
+#fff;
+background-color:
+#20a888;
+border-color:
+    #1f977b;
+}
+.btn-primary:hover {
+    color: 
+#fff;
+background-color:
+#555;
+border-color:
+#555;
+}
+.btn-primary:hover {
+    color: 
+#fff;
+background-color:
+#555;
+border-color:
+#555;
+}
+.container-form{
+  background-color:
+#fbfbfb;
+padding: 53px !important;
+border: 1px solid
+#eee;
+}
+.input-group {
+    width: 70%;
+}
+legend{
+    padding-bottom: 20px !important;
+}
+.container-fluid {
+    border-top: 6px solid 
+    #555;
+}
+.card{
+  background-color:
+#20a888;
+padding: 30px;
+border-radius: 5px;
+color:
+#fff;
+text-align: center;
+border-left: 10px solid
+#555;
+margin: 10px;
+}
+.card-head{
+ font-size: 20px;
+
+position: absolute;
+
+margin: -43px 0px 0px -70px;
+
+width: 100%;
+
+text-transform: uppercase;
+}
+.card-icon{
+  font-size: 30px;
+  width: 60px;
+
+height: 60px;
+
+background-color:
+#555;
+
+border-radius: 30px;
+
+padding: 9px;
+}
+.card-a:hover{
+text-decoration: none;
+}
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+body > .container {
+  padding: 0px 15px 0;
+}
+.container .text-muted {
+  margin: 20px 0;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+code {
+  font-size: 80%;
+}
